@@ -11,5 +11,6 @@
     color: white;
     text-align: center;
     background-image: url(../imgs/fondo-encabezado-cv.webp);
+    background-size: cover;
 }
 
