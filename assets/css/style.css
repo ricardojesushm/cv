@@ -7,14 +7,9 @@
   font-style:normal;
 }
 
-
 .header1{
     color: white;
     text-align: center;
     background-image: url(../imgs/fondo-encabezado-cv.webp);
 }
 
-.caja1{
-  border-width: 3;
-  border-color: blue;
-}
